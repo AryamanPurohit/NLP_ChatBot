@@ -3,6 +3,11 @@
 **ChatInsight** is a beginner-friendly, lightweight chatbot application built using **Streamlit**, **NLTK**, and **TextBlob**. It focuses on understanding user input through Natural Language Processing and responding appropriately based on sentiment and intent using a rule-based system.
 ---
 
+## 📸 Sample UI
+
+![Chat Screenshot](Note%20book/Screenshot%202025-07-08%20150511.png)
+
+
 ## 🚀 Features
 
 - 🧠 **Intent Detection**  
