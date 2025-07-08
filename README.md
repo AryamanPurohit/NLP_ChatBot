@@ -6,6 +6,9 @@
 ## 📸 Sample UI
 
 ![Chat Screenshot](Note%20book/Screenshot%202025-07-08%20150511.png)
+![Screenshot 150727](Note%20book/Screenshot%202025-07-08%20150727.png)
+![Screenshot 150609](Note%20book/Screenshot%202025-07-08%20150609.png)
+
 
 
 ## 🚀 Features
